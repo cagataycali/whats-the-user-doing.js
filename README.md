@@ -39,9 +39,7 @@ This was an inspiration for a JavaScript library. I saw the demo of KrauseFx the
   <!-- ... -->
 
   <script>
-    window.addEventListener("doing", function(e, d) {
-     alert(JSON.stringify(e.detail));
-    });
+    window.addEventListener("doing", e => alert(JSON.stringify(e.detail)) );
   </script>
 </html>
 ```
