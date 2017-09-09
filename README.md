@@ -49,7 +49,7 @@ This was an inspiration for a JavaScript library. I saw the demo of KrauseFx the
 *Package generate a custom event listener with **message** and **code***.
 
 
-| Message                                                	| Status 	|
+| Message                                                	| Code 	|
 |--------------------------------------------------------	|--------	|
 | "driving or other form of transportation"              	| 0      	|
 | "lying in bed sideways, or taking a landscape picture" 	| 1      	|
