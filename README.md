@@ -33,7 +33,7 @@ This was an inspiration for a JavaScript library. I saw the demo of KrauseFx the
   <head>
     <meta charset="utf-8">
     <title>Awesome App</title>
-    <script src=""></script>
+    <script src="https://cdn.rawgit.com/cagataycali/whats-the-user-doing.js/master/whats-the-user-doing.js"></script>
     <!-- ... -->
   </head>
   <!-- ... -->
